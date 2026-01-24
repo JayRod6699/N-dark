@@ -1,5 +1,6 @@
 # N-DARK
 Just another dark theme for Sway/i3
+![image](https://github.com/JayRod6699/N-dark/blob/Screenshots/Screenshot.png?raw=true)
 
 # Needed packages:
 DS-Digital (Clock Font) >not in the repos
