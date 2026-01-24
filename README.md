@@ -1,5 +1,4 @@
 # N-DARK
-#                      By JayRod6699
 
 # Just another dark theme for Sway/i3
 
