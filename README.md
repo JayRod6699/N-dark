@@ -20,4 +20,6 @@ https://github.com/EliverLara/Otis
 
 https://www.pling.com/p/1619506
 
+*Wallpapers taken from:* https://wallpaperaccess.com/japan-retro https://wallpaperbat.com/japan-night-wallpapers
+
 # ~by JayRod6699
