@@ -13,6 +13,8 @@ waybar
 
 fuzzel
 
+mako
+
 # Recommended to be used alongside with Otis-forest GTK theme by EliverLara:
 https://github.com/EliverLara/Otis
 
