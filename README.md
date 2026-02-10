@@ -15,6 +15,15 @@ fuzzel
 
 mako
 
+# Extras:
+fastfetch
+
+imagemagick
+
+cava
+
+tty-clock (AUR)
+
 # Recommended to be used alongside with Otis-forest GTK theme by EliverLara:
 https://github.com/EliverLara/Otis
 
