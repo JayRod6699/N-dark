@@ -1,6 +1,6 @@
 # N-DARK
 Just another dark theme for Sway/i3
-![image](https://github.com/JayRod6699/N-dark/blob/Screenshots/screenshot.png?raw=true)
+![image](https://github.com/JayRod6699/N-dark/blob/Screenshots/20260315_11h56m26s_grim.png?raw=true)
 
 # Needed packages:
 ttf-ds-digital (AUR)
