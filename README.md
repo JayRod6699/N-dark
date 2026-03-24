@@ -19,6 +19,8 @@ fuzzel
 
 mako
 
+libnotify
+
 # Extras:
 fastfetch
 
